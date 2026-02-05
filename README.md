@@ -1,7 +1,7 @@
 <h1 align="center">Hello, Lector! 👋</h1>
 
 <p align="center"><strong>👨‍💻 About Me 🕵️</strong></p>
-<p>My name is Paulo Vinicius. Currently, I am an Information Technology student at UFERSA (Federal Rural University of the Semi-Arid Region), pursuing a degree in Software Engineering. My current studies focus on Cybersecurity and Machine Learning. I am currently a Web Developer.</p>
+<p>My name is Paulo Vinicius. Currently, I am an Information Technology student at UFERSA (Federal Rural University of the Semi-Arid Region), pursuing a degree in Software Engineering. My current studies focus on Cybersecurity and Machine Learning. I am currently a React Web Developer.</p>
 <p align="center"><strong>💻 My Technologies 🖥️</strong></p>
 
 <p align="center">
